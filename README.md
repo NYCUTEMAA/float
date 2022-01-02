@@ -1,4 +1,4 @@
-# Float Education Project
+# Float （Education Project）
 # %浮 
 <img src="logo.jpg"/>
 
