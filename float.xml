@@ -1,0 +1,2174 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="zh-Hant-TW">
+  <siteinfo>
+    <sitename>text</sitename>
+    <dbname>my_wiki</dbname>
+    <base>http://172.104.65.21/mediawiki/index.php/%E9%A6%96%E9%A0%81</base>
+    <generator>MediaWiki 1.36.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">媒體</namespace>
+      <namespace key="-1" case="first-letter">特殊</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">討論</namespace>
+      <namespace key="2" case="first-letter">使用者</namespace>
+      <namespace key="3" case="first-letter">使用者討論</namespace>
+      <namespace key="4" case="first-letter">Text</namespace>
+      <namespace key="5" case="first-letter">Text討論</namespace>
+      <namespace key="6" case="first-letter">檔案</namespace>
+      <namespace key="7" case="first-letter">檔案討論</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki討論</namespace>
+      <namespace key="10" case="first-letter">模板</namespace>
+      <namespace key="11" case="first-letter">模板討論</namespace>
+      <namespace key="12" case="first-letter">使用說明</namespace>
+      <namespace key="13" case="first-letter">使用說明討論</namespace>
+      <namespace key="14" case="first-letter">分類</namespace>
+      <namespace key="15" case="first-letter">分類討論</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>%浮。</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>6</id>
+      <parentid>3</parentid>
+      <timestamp>2021-11-21T17:40:07Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="117" sha1="kkws5ynbv3fr4fh8vzcj8wtv35f1wle" xml:space="preserve">[[檔案:Screenshot 20211117-222802 Gallery mh1637197364836.jpg|縮圖|239x239像素]]
+一個類似暗網的群組。</text>
+      <sha1>kkws5ynbv3fr4fh8vzcj8wtv35f1wle</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>主教室</title>
+    <ns>0</ns>
+    <id>43</id>
+    <revision>
+      <id>266</id>
+      <parentid>191</parentid>
+      <timestamp>2022-01-01T19:15:24Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" sha1="j0ancvwv6thqowc80tb017sm31f9owf" xml:space="preserve">[[Category: 地點]]
+
+
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 建築年份 || 1979
+|-
+| 隸屬 || [[埃森學院]]
+|-
+| 位置 || 主教學區
+|-
+| 歷史 || 在學院落成前加蓋的教學區
+|}</text>
+      <sha1>j0ancvwv6thqowc80tb017sm31f9owf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>亞契・拉榭爾</title>
+    <ns>0</ns>
+    <id>36</id>
+    <revision>
+      <id>398</id>
+      <parentid>313</parentid>
+      <timestamp>2022-01-03T12:26:43Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>398</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="948" sha1="lwahbg8zs1t0evpv2784jpkfw96ydz9" xml:space="preserve">[[Category: 人物]]
+&lt;nowiki&gt;'''亞契・拉榭爾'''&lt;/nowiki&gt;（Archie Raschell)是埃森學院十二年級的學生。
+
+（Archie Raschell)特工團現任的團長。和[[薇薇安・珂斯多夫]]是最好的朋友。
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || R
+|-
+| 家族 || [[拉榭爾]]
+|-
+| 勢力 ||中立
+|-
+| 生日 || 7/1
+|-
+| 星座 ||巨蟹
+|-
+| 血型 ||AB
+|-
+| 髮色 || 金棕
+|-
+| 瞳色 || 蔚藍
+|-
+| 身高 || 178
+|-
+| 出生地區 || 柏林
+|-
+| 活動範圍 || 埃森
+|-
+| 所好之物 || 冬天結冰的湖面
+|-
+| 所惡之物 ||消毒水的味道
+|-
+| 屬性 || O
+|-
+| 代號 || u.m.
+|-
+| 技能 || 心靈感知
+|-
+| 配槍 ||Walther PP
+|-
+| 所屬團體 || 資優班
+|-
+! !!親屬及相關人
+|-
+|父母||（父）德雷納・拉榭爾
+|-
+|兄弟姐妹||（兄）[[伊恩・拉榭爾]]
+|-
+! !!學歷 
+|-
+|小學||[[埃森學院]]
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|}</text>
+      <sha1>lwahbg8zs1t0evpv2784jpkfw96ydz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>亞立斯黨</title>
+    <ns>0</ns>
+    <id>33</id>
+    <revision>
+      <id>221</id>
+      <parentid>220</parentid>
+      <timestamp>2021-12-31T02:20:32Z</timestamp>
+      <contributor>
+        <username>哲</username>
+        <id>4</id>
+      </contributor>
+      <origin>221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="416" sha1="npzpcf2lnldhvuq78l7g2cr23fu87ms" xml:space="preserve">非法組織，已解散，以下的資料為解散前。
+[[Category: 非法組織]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 代表圖案 ||雙輪手槍
+|-
+| 主要從業 ||黑市活動 
+|-
+| 現任家主 || 蘭特爾
+|-
+| 組織人數 || 990
+|-
+| 公司 || 黑道爾
+|-
+| 名面上資產額 ||849，393
+|-
+| 資產地總面積 || 29348 公頃
+|-
+| 傳統 || -
+|-
+| 狀態 ||已解散
+|}</text>
+      <sha1>npzpcf2lnldhvuq78l7g2cr23fu87ms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>伊恩・拉榭爾</title>
+    <ns>0</ns>
+    <id>37</id>
+    <revision>
+      <id>357</id>
+      <parentid>323</parentid>
+      <timestamp>2022-01-02T16:30:17Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>357</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="828" sha1="3j8k3deq7vhiikl7becpecbolf53j6h" xml:space="preserve">[[Category: 人物]]
+拉榭爾家族的長子，唯一的爵位繼承人。
+重視血統的他十分厭惡同父異母的弟弟[[亞契・拉榭爾]]，甚至因為他跟兒時玩伴[[薇薇安・珂斯多夫]]不再來往。
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || 小公爵
+|-
+| 家族 || [[拉榭爾]]
+|-
+| 勢力 || 貴族
+|-
+| 生日 ||6/4
+|-
+| 星座 ||雙子
+|-
+| 血型 || A
+|-
+| 髮色 || 金黃
+|-
+| 瞳色 || 蔚藍
+|-
+| 身高 || 176cm
+|-
+| 出生地區 || 柏林
+|-
+| 活動範圍 || 柏林
+|-
+| 所好之物 || 女人
+|-
+| 所惡之物 ||雜種
+|-
+! !!親屬及相關人
+|-
+|父母||華納・拉榭爾＆安雅・懷特
+|-
+|兄弟姐妹||（無）
+|-
+! !!學歷 
+|-
+|小學||[[皇家學院]]
+|-
+|中學||皇家學院
+|-
+|高中||皇家學院
+|-
+|大學||慕尼黑大學
+|}</text>
+      <sha1>3j8k3deq7vhiikl7becpecbolf53j6h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>凡妮亞・克虜伯</title>
+    <ns>0</ns>
+    <id>49</id>
+    <revision>
+      <id>388</id>
+      <parentid>341</parentid>
+      <timestamp>2022-01-03T12:05:25Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="882" sha1="fxy1xbe8llcvp92m4zskufvjyzolp21" xml:space="preserve">跟主角與[[芮貝卡]]曾經是三個彼此最後的朋友，在主角和芮貝卡決裂後她也單方面斷掉了和主角的聯繫。現爲資優班成員。
+[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 ||凡尼亞
+|-
+| 家族 || 克虜伯
+|-
+| 勢力 ||中立
+|-
+| 生日 ||2/12
+|-
+| 星座 ||水瓶
+|-
+| 血型 ||O
+|-
+| 髮色 || 紅
+|-
+| 瞳色 || 水藍
+|-
+| 身高 || 167
+|-
+| 出生地區 ||埃森
+|-
+| 活動範圍 || 埃森
+|-
+| 所好之物 || 羽毛筆
+|-
+| 所惡之物 || 蘑菇
+|-
+| 屬性 || B
+|-
+| 代號 || eagle
+|-
+| 技能 || 區域時間控制
+|-
+| 配槍 ||SIG-Sauer P250
+|-
+| 所屬團體 ||資優班
+|-
+! !!親屬及相關人
+|-
+|父母||彭哥列·克虜伯（父親），瓦若蘭（母親）
+|-
+! !!學歷 
+|-
+|小學||倫斯貝格社區小學
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|}</text>
+      <sha1>fxy1xbe8llcvp92m4zskufvjyzolp21</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>化學實驗室</title>
+    <ns>0</ns>
+    <id>44</id>
+    <revision>
+      <id>269</id>
+      <parentid>267</parentid>
+      <timestamp>2022-01-01T19:18:51Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="qf7r5wxkcve43zye30v9104w8zda0bd" xml:space="preserve">[[Category: 地點]]
+
+
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 建築年份 || 1634
+|-
+| 隸屬 || [[埃森學院]]
+|-
+| 位置 || 主校區D棟
+|-
+| 歷史 || 前身為城堡裡的僕人房
+|}</text>
+      <sha1>qf7r5wxkcve43zye30v9104w8zda0bd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>卡爾・羅蘭</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>384</id>
+      <parentid>383</parentid>
+      <timestamp>2022-01-03T11:50:05Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>384</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1080" sha1="9tbmnzgq3o0w1os3gsfjp8d69xdre3c" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || 玩家，花花公子
+|-
+| 家族 || 羅蘭
+|-
+| 勢力 || 貴族
+|-
+| 生日 || 1月08日
+|-
+| 星座 || 水瓶座
+|-
+| 血型 || A
+|-
+| 髮色 || 棕
+|-
+| 瞳色 || 綠
+|-
+| 身高 || 172cm
+|-
+| 出生地區 || 曼徹思王國
+|-
+| 活動範圍 || 曼徹思王國
+|-
+| 所好之物 || 金錢
+|-
+| 所惡之物 || 克制
+|-
+! !!親屬及相關人
+|-
+|父母|| 弗蘭德・羅蘭和米爾・羅蘭
+|-
+|兄弟姐妹|| 哥哥吉諾曼，姐姐伊塞娜，弟弟安東尼
+|-
+! !!學歷 
+|-
+|小學|| 路德斯海姆廣場小學
+|-
+|國中|| 潘克塔爾中學
+|-
+|高中|| 潘克塔爾中學
+|-
+|大學|| 曼海姆商學院
+|}
+
+  [[埃森學院]]現任董事長，同時也是[[羅蘭]]現任家主吉諾曼・羅蘭的弟弟。為人處世相當漫不經心，喜歡賭博和處處拈花惹草。因為這種性格，在家族內並不受重視，是個大家都嫌棄的存在。現任家主的吉諾曼為其安排了埃森學院董事長這種沒錢又沒權的雞肋職位。</text>
+      <sha1>9tbmnzgq3o0w1os3gsfjp8d69xdre3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>地球</title>
+    <ns>0</ns>
+    <id>17</id>
+    <revision>
+      <id>59</id>
+      <parentid>58</parentid>
+      <timestamp>2021-11-25T14:57:05Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="126" sha1="spoovkw9b735gn01mzyro2u1y22p1qz" xml:space="preserve">宇宙代號：卡塔蘭
+
+座標：[13e,54A,-6]
+
+備註：神界天文館發現的第十三個時空夾層
+[[Category:宇宙]]</text>
+      <sha1>spoovkw9b735gn01mzyro2u1y22p1qz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>埃森學院</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>380</id>
+      <parentid>339</parentid>
+      <timestamp>2022-01-03T11:24:01Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>380</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="767" sha1="tgxs3xd3syf9t1jcw8un2cnjr97y7vq" xml:space="preserve">[[Category:學校]] 
+ 寄宿學院，教學區內禁止學員帶入任何電子設備，但是在其他學生活動上學校卻能給予學員最大限度的自由。每日進出教學區都需要經過安檢，違禁品和電子設備將被扣留於警衛室。每個三十年內，每個世家都被強制至少有一名子女就讀此間學校。但大多數的貴族子女首選的學校為皇家學院，因此來到這間學校的貴族普遍是家族中不受寵的孩子，或是私生子女。雖然稱績優異，在國際間評價優良，但在貴族的圈中被評價為下等人去的學校。
+建立時間：1980 年
+
+現任校長：維吉爾
+
+董事長：卡爾・羅蘭
+
+土地面積：115.63 公頃
+
+人數：10024 人
+
+勢力:貴族
+
+社團數：67</text>
+      <sha1>tgxs3xd3syf9t1jcw8un2cnjr97y7vq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>天眼會</title>
+    <ns>0</ns>
+    <id>32</id>
+    <revision>
+      <id>116</id>
+      <timestamp>2021-12-30T09:06:09Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <comment>建立內容為「[[Category: 非法組織]] 此頁面施工中。」的新頁面</comment>
+      <origin>116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="0mo7923ssznbabs4u1b1xd58edmf2pl" xml:space="preserve">[[Category: 非法組織]]
+此頁面施工中。</text>
+      <sha1>0mo7923ssznbabs4u1b1xd58edmf2pl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>奧黛·懷特</title>
+    <ns>0</ns>
+    <id>24</id>
+    <redirect title="奧黛・懷特" />
+    <revision>
+      <id>90</id>
+      <timestamp>2021-12-30T08:44:20Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <comment>Alicechen13移動頁面[[奧黛·懷特]]至[[奧黛・懷特]]</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="mw705qm5gov3d237keblraymx00yx9v" xml:space="preserve">#重新導向 [[奧黛・懷特]]</text>
+      <sha1>mw705qm5gov3d237keblraymx00yx9v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>奧黛・懷特</title>
+    <ns>0</ns>
+    <id>22</id>
+    <revision>
+      <id>392</id>
+      <parentid>391</parentid>
+      <timestamp>2022-01-03T12:09:33Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>392</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1349" sha1="kym0gkc3wxjlvd8iiu43fmx8khbn7ix" xml:space="preserve">[[Category: 人物]]
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 家族 || [[懷特]]
+|-
+| 勢力 ||王室
+|-
+| 生日 ||12/30
+|-
+| 星座 ||魔蠍
+|-
+| 血型 ||B
+|-
+| 髮色 || 黑色透紅
+|-
+| 瞳色 || 咖啡
+|-
+| 身高 || 164cm
+|-
+| 出生地區 ||柏林
+|-
+| 活動範圍 || 柏林→埃森→布蘭登堡
+|-
+| 所好之物 || 成片金黃的梧桐樹
+|-
+| 所惡之物 ||混亂
+|-
+| 屬性 || O
+|-
+| 代號 || Whine
+|-
+| 技能 || 建築夢境
+|-
+| 配槍 ||Para-Ordnance P-13
+|-
+| 所屬團體 ||(已畢業)[[資優班]]
+|-
+! !!
+親屬及相關人
+|-
+|父母||約翰-米勒・懷特&amp;瑪麗娜・連儂
+|-
+|兄弟姐妹||（兄）蓋文・懷特
+|-
+! !!學歷 
+|-
+|小學||[[埃森學院]]
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|-
+|高中||歐洲工商管理學院（休學）
+|}
+'''奧黛・懷特'''(Aydry White)曼徹斯的貴族，已故。
+和[[路易・曼徹斯]]相識於[[埃森學院]]，是彼此的初戀。
+
+在路易要登上王位前勸說他接受[[羅蘭]]家族的婚約，鞏固政權。之後便前往布蘭登堡隱居，在六個月後生下了[[艾琳娜‧布朗恩|艾琳娜]]，並將她寄託給昔日的好友[[艾維斯・布朗恩]]。再四個月過去後被王后的刺客所殺。艾維斯・布朗恩依照了她生前的交代將她的屍體投餵給了[[石蟲]]。</text>
+      <sha1>kym0gkc3wxjlvd8iiu43fmx8khbn7ix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>學校及學校組織</title>
+    <ns>0</ns>
+    <id>28</id>
+    <revision>
+      <id>106</id>
+      <timestamp>2021-12-30T08:54:32Z</timestamp>
+      <contributor>
+        <username>Eryn</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「* [[皇家學院]] * [[埃森學院]] * [[學生會]] * [[學生議會]]」的新頁面</comment>
+      <origin>106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="mb1th5hrbw3x4udkaalvix1kicde59h" xml:space="preserve">* [[皇家學院]]
+* [[埃森學院]]
+* [[學生會]]
+* [[學生議會]]</text>
+      <sha1>mb1th5hrbw3x4udkaalvix1kicde59h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>學生會</title>
+    <ns>0</ns>
+    <id>11</id>
+    <revision>
+      <id>265</id>
+      <parentid>234</parentid>
+      <timestamp>2022-01-01T19:07:16Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="237" sha1="6uugay4ycelbtswddz0ggiyirc41i88" xml:space="preserve">[[Category:學校組織]] 
+處理學生事務的學生自治團體，會充當學校與學生之間溝通的橋樑，並舉辦大型活動。
+
+建立時間：1980
+
+現任會長：莉莉亞・媞娜 
+
+代表標誌:松果 
+
+人數：65 人</text>
+      <sha1>6uugay4ycelbtswddz0ggiyirc41i88</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>學生議會</title>
+    <ns>0</ns>
+    <id>55</id>
+    <redirect title="學生會" />
+    <revision>
+      <id>235</id>
+      <timestamp>2022-01-01T17:36:48Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <comment>Alicechen13移動頁面[[學生議會]]至[[學生會]]</comment>
+      <origin>235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="373nxbo7igdrflabh0uvsk9a04qqsu2" xml:space="preserve">#重新導向 [[學生會]]</text>
+      <sha1>373nxbo7igdrflabh0uvsk9a04qqsu2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>家族</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>105</id>
+      <timestamp>2021-12-30T08:54:12Z</timestamp>
+      <contributor>
+        <username>Eryn</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「* [[珂斯多夫]] * [[布朗恩]] * [[拉榭爾]] * [[曼徹斯]] * [[羅蘭]] * [[懷特]]」的新頁面</comment>
+      <origin>105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="kewjp4ob39b9ju8zg6wgogxjompak0z" xml:space="preserve">* [[珂斯多夫]]
+* [[布朗恩]]
+* [[拉榭爾]]
+* [[曼徹斯]]
+* [[羅蘭]]
+* [[懷特]]</text>
+      <sha1>kewjp4ob39b9ju8zg6wgogxjompak0z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>布朗恩</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>258</id>
+      <parentid>247</parentid>
+      <timestamp>2022-01-01T18:52:56Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="4b8jprmy66hxwpoxy5lrzma1wsg45ea" xml:space="preserve">其祖輩馬文・布朗恩為艾德理克・曼徹斯的副將。家族成員一般擔任皇家近衛。在1949年接收了受封儀式。
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 代表色 || 棕#844200
+|-
+| 主要從業 || 皇家近衛隊
+|-
+| 現任家主 || 艾維斯・布朗恩
+|-
+| 家族成員人數 || 5
+|-
+| 僕役數 || 7
+|-
+| 資產額 || 12億杜卡特
+|-
+| 資產地總面積 || 3034平方公尺
+|}
+[[Category:家族]]</text>
+      <sha1>4b8jprmy66hxwpoxy5lrzma1wsg45ea</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>布林梅行動</title>
+    <ns>0</ns>
+    <id>23</id>
+    <revision>
+      <id>288</id>
+      <parentid>287</parentid>
+      <timestamp>2022-01-01T20:09:48Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="883" sha1="a9k4ou2xbs1b6tadvysmp4f6q1lqu4v" xml:space="preserve">[[Category: 文件]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 檔案標號 || 009612 
+|-
+| 存放位置 || 埃森學院_206暗室
+|-
+| 編寫日期 || 2月3號
+|-
+| 編寫人 || 莉莎.博納富瓦
+|-
+| 機密程度 || B+
+|}
+
+
+   此次行動是在年長的特工團團員秘密逮捕了亞立斯黨首的高層後後，由幼年成員執行的犯罪證據收集行動。任務是在亞立斯黨在布林梅的藏匿處裡尋找殘存的所有證據及物品。
+
+== 文件內容 ==
+任務編號：F-SG-201
+
+任務名稱：布林梅行動
+
+任務目標：探查亞歷斯黨在布林梅的藏匿處
+
+日期：1/31
+
+天氣：雨。3゜C
+
+參與人員:行動：R、Ich ／ 後勤：u.m.
+
+成員表現:Ich在受困密室並被R解救後放出了亞歷斯黨的小女兒蘭娜娜，並且回報了任務搜查失敗。
+
+教師評價：無
+
+加註：已上繳國王過目</text>
+      <sha1>a9k4ou2xbs1b6tadvysmp4f6q1lqu4v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>懷特</title>
+    <ns>0</ns>
+    <id>42</id>
+    <revision>
+      <id>400</id>
+      <parentid>399</parentid>
+      <timestamp>2022-01-03T13:01:40Z</timestamp>
+      <contributor>
+        <username>哲</username>
+        <id>4</id>
+      </contributor>
+      <origin>400</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="5ltu9whoufv1rataw634jut9p801cjp" xml:space="preserve">[[Category: 家族]]
+
+家族之一，由奧黛・懷特創立。
+{| class="wikitable" style="float: left;"
+
+|-
+!   !!  
+|-
+| 代表色 || 白#ffffff
+|-
+| 主要從業 || 販賣商品
+|-
+| 現任家主 || 喬爾・懷特
+|-
+| 家族成員人數 ||34
+|-
+| 僕役數 || 29
+|-
+| 資產額 || 70億杜卡特
+|-
+| 資產地總面積 || 41 公頃
+|-
+| 傳統 ||-
+|}</text>
+      <sha1>5ltu9whoufv1rataw634jut9p801cjp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>拉榭爾</title>
+    <ns>0</ns>
+    <id>39</id>
+    <revision>
+      <id>261</id>
+      <parentid>260</parentid>
+      <timestamp>2022-01-01T18:57:40Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="559" sha1="6y5pj2z2ioevas5s24h9hpsefe282xk" xml:space="preserve">[[Category: 家族]]
+
+（Raschell）
+
+古老的政治世家，自從其中一任家主波特・拉榭爾被其大老婆毀滅性的爆出醜聞後多了每位家主一生只能娶一個女人的不成文規定。
+{| class="wikitable" style="float: left;"
+
+|-
+!   !!  
+|-
+| 代表色 || 群青#10098F
+|-
+| 主要從業 || 政治
+|-
+| 現任家主 || 德雷納・拉榭爾
+|-
+| 家族成員人數 || 13
+|-
+| 僕役數 || 29
+|-
+| 資產額 || 56億杜卡特
+|-
+| 資產地總面積 || 8213平方公尺
+|-
+| 傳統 ||家主一生只能娶一個女人
+|}</text>
+      <sha1>6y5pj2z2ioevas5s24h9hpsefe282xk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>曼徹斯</title>
+    <ns>0</ns>
+    <id>40</id>
+    <revision>
+      <id>129</id>
+      <parentid>128</parentid>
+      <timestamp>2021-12-30T09:22:33Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="ms38poqww7pqz0icdi9u3tqa1yd792w" xml:space="preserve">[[Category: 家族]]
+因為本條目過於龐大，正在施工中。</text>
+      <sha1>ms38poqww7pqz0icdi9u3tqa1yd792w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>松木林</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>204</id>
+      <parentid>203</parentid>
+      <timestamp>2021-12-31T01:08:13Z</timestamp>
+      <contributor>
+        <username>哲</username>
+        <id>4</id>
+      </contributor>
+      <origin>204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="hn1o6f3pzkts6xnr01jjj56i7trdcwg" xml:space="preserve">[[Category: 地點]]
+
+女主發現受傷的貓的地方。
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 建築年份 || 1690
+|-
+| 隸屬 || 埃森學院
+|-
+| 位置 ||樹林區
+|-
+| 歷史 ||悠久的數量，在學院還沒有成立前就已經存在了
+|}</text>
+      <sha1>hn1o6f3pzkts6xnr01jjj56i7trdcwg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>澡堂</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>270</id>
+      <parentid>193</parentid>
+      <timestamp>2022-01-01T19:19:54Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="310" sha1="rduikq3dduwkgbb49016wb050oy8fj1" xml:space="preserve">[[Category: 地點]]
+
+
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 建築年份 || 1634
+|-
+| 隸屬 || [[埃森學院]]
+|-
+| 位置 || 主校區D棟
+|-
+| 歷史 || 前身為城堡裡城堡主專用的大澡堂，因為某些原因埃森學院沒有拆除，並且一直保留至今。
+|}</text>
+      <sha1>rduikq3dduwkgbb49016wb050oy8fj1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>珂斯多夫</title>
+    <ns>0</ns>
+    <id>14</id>
+    <revision>
+      <id>257</id>
+      <parentid>256</parentid>
+      <timestamp>2022-01-01T18:49:53Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="661" sha1="m6wnbqvljvzxkq1qq7yoijafub1n2pd" xml:space="preserve">19世紀時以商會起家，專做古物買賣，在20世紀初期當時珂斯多夫家的小兒子，契布曼・珂斯多夫靠著戰爭時期的國債讓整個家族成為能影響歐洲大陸局勢的強大財閥。在二戰時期資助了艾德理克・曼徹斯，並在1949接收了受封儀式。
+
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 代表色 ||湖藍#00E3E3 
+|-
+| 主要從業 || 銀行
+|-
+| 現任家主 || 伊登・珂斯多夫
+|-
+| 家族成員人數 || 10
+|-
+| 僕役數 || 34
+|-
+| 資產額 || 920億杜卡特
+|-
+| 資產地總面積 || 72公頃
+|-
+| 傳統 ||會在每年5／2舉辦仲夏宴會
+|}
+
+[[Category:家族]]</text>
+      <sha1>m6wnbqvljvzxkq1qq7yoijafub1n2pd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>皇家學院</title>
+    <ns>0</ns>
+    <id>9</id>
+    <revision>
+      <id>381</id>
+      <parentid>379</parentid>
+      <timestamp>2022-01-03T11:24:17Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>381</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="ezjlvgr4p2r2szhnqb4aijpnor69dti" xml:space="preserve">[[Category:學校]]
+'''皇家學院'''，全名曼徹斯皇家學院，是一所在曼徹斯王國中文理高中。 
+
+原本為王室成員的教育學院，有一些跟王室關係良好的貴族也會將孩子送來一起讀書，後來在1977 年議會建立後同時宣布擴展，入學方式分為學校邀請和考試入學兩種。雖然考試入學的名額較少，但每年仍然有大批平民爭取能進入這間學校，以換得更光明的前途。 舊校區（59.32 公頃）仍只開放給皇室成員和貴族。 
+
+建立時間：1950 年
+
+現任校長：伊凡・曼徹斯
+
+土地面積：160.35 公頃
+
+人數：5481人
+
+勢力:王室
+
+社團數：34
+
+== 國小部 ==
+雖然在1977年後改為文理高中，但是其教育王室的性質不變，因此舊校區中還保留著國小部，王室貴族能繼續入學。</text>
+      <sha1>ezjlvgr4p2r2szhnqb4aijpnor69dti</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>石蟲</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>360</id>
+      <parentid>359</parentid>
+      <timestamp>2022-01-03T02:07:50Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* 屬性 */</comment>
+      <origin>360</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1716" sha1="4jx27gbj294dlsfzmexofh85rzg54pl" xml:space="preserve">1935年隨著隕石降落至地球的外星生物，會被餵養者同化。其黏液（一般稱為石（ㄉㄢˋ））在輸入體內後可以讓人體的機能最大化。
+經研究發現，其黏液也有自己的生命特徵。
+
+[[Category: 外星生物]]
+
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 種類 || 外星生物體
+|-
+| 來源星球 || 未知
+|-
+| 現存數量 || 未知
+|-
+| 地球上的現存數量 || 1
+|-
+| 存在時間 || 根據碳14檢測，已存在2300年左右
+|-
+| 存在位置 || 王宮密室
+|-
+| 正常溫度 ||16～18゜C
+|-
+| 呼吸機制 || 表面擴散
+|-
+| 特性 || 具黏液
+|-
+| 機密程度 ||SSS+
+|}
+&lt;blockquote&gt;
+== 異能 ==
+&lt;/blockquote&gt;將石輸入人體內後，會有一定的機率激發異能。異能出現的時間因個人體質將會不一樣，以兩個月到三年為主。
+
+石輸入最佳時機是在12～13歲，此年齡是異能出現的機率較高的年齡，其副作用是石會擷取寄宿者越來越多的養分，大部分的異能者都會在接收但後的25～30年快速衰老而死。
+
+=== 屬性 ===
+輸入了石的人，我們可以用屬性將他們分類:
+
+異能偏物質性的被歸類為Alpha (簡稱A)
+
+異能偏精神性的被歸類為Omega (簡稱O)
+
+異能未覺醒的被歸類為Beta (簡稱B)
+
+== 配對 ==
+石在人體內共生後會成長出石蟲子體，這個時候將兩人的石蟲子體交換就可以達到讓兩人能心靈感應、共感的效果。
+
+== 心靈桎梏 ==
+石蟲母體的會被餵養者同化，而母體和子體間感應的層級是超過子體間的互相感應的（詳見：異能），因此母體的餵養者能在一定程度上控制擁有子體的人
+
+__新段落链接__</text>
+      <sha1>4jx27gbj294dlsfzmexofh85rzg54pl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>米開萊・吉諾布爾</title>
+    <ns>0</ns>
+    <id>58</id>
+    <revision>
+      <id>375</id>
+      <parentid>374</parentid>
+      <timestamp>2022-01-03T06:49:50Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1426" sha1="mc4birbyvtjkvscewg4ydtae0dhofd9" xml:space="preserve">[[Category:人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+! !! 基本資料
+|-
+| 別稱 || 吉諾
+|-
+| 勢力 || 王室
+|-
+| 血型 || B
+|-
+| 髮色 || 黑 
+|-
+| 瞳色 || 琥珀
+|-
+| 身高 || 182cm
+|-
+| 活動範圍 || 曼徹思王國
+|-
+| 所好之物 || 槍械
+|-
+| 所惡之物 || 甜品
+|-
+! !!親屬及相關人
+|-
+|父母||（父親）皮耶羅・吉諾布爾＆（母親）伊麗莎白・連儂
+|-
+|繼父||克勞德・里諾
+|-
+! !!學歷 
+|-
+|小學|| 波德小學
+|-
+|中學|| 喬特羅中學
+|-
+|高中|| 曼徹思預備學院
+|-
+|大學|| 曼徹思警察學院
+|}
+'''米開萊・吉諾布爾'''（義大利語：Michele Ginoble）是一名隸屬於王室的特種警察。
+
+米開萊出生並成長於義大利，喜歡耍帥，擁有極強的行動力和精準的直覺，這也是他能在成為警察後破獲多起案件的原因。憑藉母親的貴族血統而進了特警隊，在剛進團隊時，許多人對他的實力保持懷疑，但很快他就交出了亮眼的成績來證明自己的實力。
+
+== 童年 ==
+母親伊莉莎白・連儂在17歲時和鋼琴老師皮耶羅・吉諾布爾私奔，被家族連儂除名。在義大利定居下來的一後生下了米開萊。
+
+在米開萊出生後的前三年裡，這對情侶十分和諧，但因為皮耶羅・吉諾布爾一直未與他的妻子離婚，兩人的爭吵越來越頻繁。最後在米開萊五歲時兩人分手了。</text>
+      <sha1>mc4birbyvtjkvscewg4ydtae0dhofd9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>紫煞</title>
+    <ns>0</ns>
+    <id>38</id>
+    <revision>
+      <id>387</id>
+      <parentid>337</parentid>
+      <timestamp>2022-01-03T11:57:45Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="763" sha1="cxhm6e6h94jzponkkd8an1lg6kes1x7" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || 阿紫
+|-
+| 勢力 || 無
+|-
+| 生日 || 12/30
+|-
+| 星座 || 摩羯座
+|-
+| 血型 || O
+|-
+| 髮色 || 棕色
+|-
+| 瞳色 || 紫色
+|-
+| 身高 || 175
+|-
+| 出生地區 || 曼徹思王國
+|-
+| 活動範圍 || 埃森學院
+|-
+| 所好之物 || 棉花糖
+|-
+| 所惡之物 || 紫荊花
+|-
+! !!親屬及相關人
+|-
+|父母|| 老愛德華和莎拉.瓊斯
+|-
+|兄弟姐妹|| 哥哥小愛德華
+|-
+! !!學歷 
+|-
+|小學|| 威斯巴登小學
+|-
+|中學|| ECOLEA文理中學
+|-
+|高中|| 埃森學院
+|}
+
+
+        一名來自平民階層的普通少年，憑自身努力成功進入了埃森學院，卻誤打誤撞地發現了[[芮貝卡]]的死亡案發現場。</text>
+      <sha1>cxhm6e6h94jzponkkd8an1lg6kes1x7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>羅蘭</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>352</id>
+      <parentid>351</parentid>
+      <timestamp>2022-01-02T16:20:37Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="489" sha1="dmcchun7d84fw822553rezvelm04nzp" xml:space="preserve">[[Category: 家族]]
+
+祖輩是義大利商人，古老的家族史讓他們的生活中多了很多複雜的規矩。
+{| class="wikitable" style="float: left;"
+
+|-
+!   !!  
+|-
+| 代表色 || 桔梗#6a4c9c
+|-
+| 主要從業 || 政治＆海運
+|-
+| 現任家主 || 吉諾曼・羅蘭
+|-
+| 家族成員人數 || 46
+|-
+| 僕役數 || 93
+|-
+| 資產額 || 415億杜卡特
+|-
+| 資產地總面積 || 9046平方公尺
+|-
+| 傳統 ||「金錢就是權利，權利就是是一切。」
+|}</text>
+      <sha1>dmcchun7d84fw822553rezvelm04nzp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>艾琳娜‧布朗恩</title>
+    <ns>0</ns>
+    <id>5</id>
+    <revision>
+      <id>395</id>
+      <parentid>365</parentid>
+      <timestamp>2022-01-03T12:21:25Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>395</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1383" sha1="4auhfqrk2xf0gbp02rsmxxi0v9plgl0" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 ||艾琳、艾
+|-
+| 家族 || [[布朗恩]]
+|-
+| 勢力 || 王室 
+|-
+| 生日 ||7/24
+|-
+| 星座 ||獅子
+|-
+| 血型 ||B
+|-
+| 髮色 || 深棕 
+|-
+| 瞳色 || 蜜糖色 
+|-
+| 身高 || 166.8cm 
+|-
+| 出生地區 ||布蘭登堡
+|-
+| 活動範圍 || 埃森
+|-
+| 所好之物 || 無
+|-
+| 所惡之物 || 無
+|-
+| 屬性 || B
+|-
+| 代號 || 無（曾經：Ich）
+|-
+| 技能 || 無
+|-
+| 配槍 ||CZ 75 SP-01
+|-
+|所屬團體||[[資優班]]（曾經）
+|-
+! !!親屬及相關人
+|-
+|父母||（養父）[[艾維斯・布朗恩]]＆（養母）安娜
+|-
+|||（父）[[路易・曼徹斯]]＆（母）[[奧黛・懷特]]
+|-
+|兄弟姐妹||（乾弟）[[迪昂・布朗恩]]
+|-
+! !!學歷 
+|-
+|小學||[[埃森學院]]
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|}
+
+'''艾琳娜‧布朗恩'''（Irena Brown）是埃森學院十一年級的學生。
+
+[[布朗恩]]家族的養女，[[迪昂・布朗恩]]的姐姐。和[[芮貝卡]]相識於孤兒院，曾經是最好的朋友，卻在九年級時決裂，並退出了[[資優班]]。在調查昔日好友的死因時，誤進了類似暗網的群組[[%浮。|％浮。]]，手機自動發出了關於對芮貝卡的仇恨言論和關於她死亡的細節訊息。此後被懷疑因忌妒殺害了昔日的朋友，芮貝卡。</text>
+      <sha1>4auhfqrk2xf0gbp02rsmxxi0v9plgl0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>艾維斯・布朗恩</title>
+    <ns>0</ns>
+    <id>51</id>
+    <revision>
+      <id>402</id>
+      <parentid>401</parentid>
+      <timestamp>2022-01-03T13:03:16Z</timestamp>
+      <contributor>
+        <username>哲</username>
+        <id>4</id>
+      </contributor>
+      <origin>402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="805" sha1="lph3shd5u3nq40rn5yfx67xobdw04cw" xml:space="preserve">艾琳娜‧布朗恩的養父，迪昂・布朗恩的父親，已過世。
+[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 ||艾維斯
+|-
+| 家族 || 布朗恩
+|-
+| 勢力 ||王室
+|-
+| 生日 ||8/21
+|-
+| 星座 ||獅子
+|-
+| 血型 ||AB
+|-
+| 髮色 || 棕
+|-
+| 瞳色 || 黑
+|-
+| 身高 || 177
+|-
+| 出生地區 ||阿卡班
+|-
+| 活動範圍 || 曼徹斯
+|-
+| 所好之物 || 秋天
+|-
+| 所惡之物 ||叛徒
+|-
+| 屬性 || A
+|-
+| 代號 || iron
+|-
+| 技能 || 影瞬殺陣
+|-
+| 配槍 ||（無固定配槍）
+|-
+| 所屬團體 ||皇家護衛隊
+|-
+! !!親屬及相關人
+|-
+|父母||多瑪姆・布朗恩（父親），琪娜
+|-
+! !!學歷 
+|-
+|小學||冠冕小學
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|-
+|大學||柏林軍事學院
+|}</text>
+      <sha1>lph3shd5u3nq40rn5yfx67xobdw04cw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>芮貝卡</title>
+    <ns>0</ns>
+    <id>7</id>
+    <revision>
+      <id>397</id>
+      <parentid>394</parentid>
+      <timestamp>2022-01-03T12:23:51Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>397</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="860" sha1="lj070ew4mi3kuu8dgd4uc6ee4md5k7k" xml:space="preserve">[[Category:人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+! !! 基本資料
+|-
+| 別稱 ||芮、芮貝、貝卡
+|-
+| 勢力 || [[埃森學院]] 
+|-
+| 血型 ||A
+|-
+| 髮色 || 黑 
+|-
+| 瞳色 || 淺褐 
+|-
+| 身高 || 174.6cm 
+|-
+| 活動範圍 || 埃森
+|-
+| 所好之物 || 紅色
+|-
+| 所惡之物 || 醜陋
+|-
+| 屬性 || A
+|-
+| 代號 || R
+|-
+| 技能 || 金屬操控
+|-
+| 配槍 ||Taurus PT99
+|-
+| 配對 || [[迪昂・布朗恩]]
+|-
+| 所屬團體 ||[[資優班]]
+|-
+! !!學歷 
+|-
+|小學||埃森學院
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|}
+'''芮貝卡'''(Rebecca)是埃森學院十一年級的學生。
+
+從孤兒院被選進埃森學院的孩子，比其他的貴族同學多訓練了三年。是同儕中的頂尖特務，也是學校裡的社交天后，有很多緋聞男友。故事的開頭時在其宿舍被暗殺。</text>
+      <sha1>lj070ew4mi3kuu8dgd4uc6ee4md5k7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>茵薩斯湖邊涼亭</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>195</id>
+      <parentid>194</parentid>
+      <timestamp>2021-12-30T20:43:26Z</timestamp>
+      <contributor>
+        <username>Eryn</username>
+        <id>3</id>
+      </contributor>
+      <origin>195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="ov0auw5d34ypjiowr1frz244rmm5apg" xml:space="preserve">[[Category: 地點]]
+
+
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  
+|-
+| 建築年份 || 1970
+|-
+| 隸屬 || 曼徹斯王國
+|-
+| 位置 || [[埃森學院]]校園外附近
+|-
+| 歷史 || 普通的湖，美麗的景
+|}</text>
+      <sha1>ov0auw5d34ypjiowr1frz244rmm5apg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>莎凡娜</title>
+    <ns>0</ns>
+    <id>35</id>
+    <revision>
+      <id>373</id>
+      <parentid>362</parentid>
+      <timestamp>2022-01-03T06:32:58Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" sha1="9fhduqbjdj3ogr42zuvphgssrnu4o9h" xml:space="preserve">[[Category: 人物]]
+
+scp-de-0201
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 ||茜茜、0201
+|-
+| 家族 || 蘭
+|-
+| 勢力 ||天眼會
+|-
+| 生日 ||12/25
+|-
+| 星座 ||摩羯座
+|-
+| 血型 ||O
+|-
+| 髮色 || 烏黑
+|-
+| 瞳色 || 碧綠
+|-
+| 身高 || 160
+|-
+| 出生地區 ||北萊茵－威斯伐倫
+|-
+| 活動範圍 || 北萊茵－威斯伐倫
+|-
+| 所好之物 || 艾琳娜・布朗恩
+|-
+| 所惡之物 || 父輩
+|-
+| 屬性 || A、O
+|-
+| 技能 || 火焰操控&amp;記憶還原
+|-
+| 所屬團體 ||天眼會
+|-
+! !!親屬及相關人
+|-
+|父母||（父）蘭保羅 （母）蘭紫
+|-
+|}</text>
+      <sha1>9fhduqbjdj3ogr42zuvphgssrnu4o9h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>薇薇安・珂斯多夫</title>
+    <ns>0</ns>
+    <id>6</id>
+    <revision>
+      <id>396</id>
+      <parentid>358</parentid>
+      <timestamp>2022-01-03T12:23:09Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2549" sha1="adeezxao0pguvqxlvf0mmmtamr2r1ox" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || V、薇薇
+|-
+| 家族 || [[珂斯多夫]]
+|-
+| 勢力 || 中立 
+|-
+| 生日 || 6/17
+|-
+| 星座 ||雙子
+|-
+| 血型 ||O
+|-
+| 髮色 || 金黃 
+|-
+| 瞳色 || 祖母綠 
+|-
+| 身高 || 168.3cm 
+|-
+| 出生地區 ||柏林
+|-
+| 活動範圍 || 下薩克森州→埃森
+|-
+| 所好之物 || 琉璃
+|-
+| 所惡之物 || 不義
+|-
+| 屬性 || O
+|-
+| 代號 || emer
+|-
+| 技能 || 記憶提取
+|-
+| 配槍 ||暫無
+|-
+| 配對 || [[亞契・拉榭爾]]
+|-
+| 所屬團體 ||[[資優班]]
+|-
+! !!親屬及相關人
+|-
+|父母||伊登・珂斯多夫&amp;翠西亞・羅蘭
+|-
+! !!學歷 
+|-
+|小學||無
+|-
+|中學||無
+|-
+|高中||埃森學院
+|}
+
+'''薇薇安・珂斯多夫'''（Vivian Kosstöf）是埃森學院十一年級的學生。
+    本學期的新轉學生，和班級裡的其他貴族家庭的棄子不一樣，她是[[珂斯多夫]]家族中受寵的大小姐。在貴族圈子裡謠傳是一位體弱多病的美人，在這學期進入學校就讀之前她都是待在一間私人病院治療。跟[[亞契・拉榭爾]]有婚約，並且是依照她本人的意願訂下的，但父母因為亞契的私生子身份而十分的反對。身為屍體的第一目擊者之一，也被列入了殺害芮貝卡的嫌疑人中。
+
+== 與[[伊恩・拉榭爾]] ==
+[[珂斯多夫]]家與[[拉榭爾]]家交好，在幼時兩家聚會時伊恩・拉榭爾和他的跟班們常常帶著薇薇安一起玩耍。兩人曾經有一段感情好到像是兄妹的時期。但這段關係在薇薇安出手干預他們欺凌亞契・拉榭爾後就不復存在了。
+
+== 與亞契・拉榭爾 ==
+在薇薇安的定義中，她和亞契是彼此最好的朋友。因為心中的道德感而救下了他，薇薇安單方面被伊恩和他的小團體拋棄了。沒有對救下了亞契感到後悔，但她也不能明白伊恩為什麼要執意欺凌弱小。其後與亞契達成了協議，她能確保亞契在家族中的地位，保護他遠離伊恩的欺凌，但是亞契必須讓她繼續和伊恩有聯繫，兩人婚約就是如此而來的。
+
+== 與[[路易・曼徹斯]] ==
+&lt;small&gt;''“最受國王寵愛的女孩！珂斯多夫的薇薇安被賞賜了不用行禮的殊榮！”－－《皇家小報》''&lt;/small&gt;
+
+儘管報紙傳的很誇張，但她只是和國王在某場王宮宴會時在王宮後花園的池塘邊相遇，之後成了國王要送他女兒禮物前的顧問。並且在幾年後又被國王派去保護他女兒。</text>
+      <sha1>adeezxao0pguvqxlvf0mmmtamr2r1ox</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>資優班</title>
+    <ns>0</ns>
+    <id>10</id>
+    <revision>
+      <id>386</id>
+      <parentid>264</parentid>
+      <timestamp>2022-01-03T11:51:40Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>386</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="557" sha1="98ebsyrts16yn5y1kx7jrjyrhynrkje" xml:space="preserve">[[Category:學校組織]]
+雖然稱作為資優班，但是實際上這只是一個特工團為了掩人耳目的名稱。
+
+從創校第一年便存在至今。並沒有公開的入班方式，傳說要成為其中的一員是得繼承離開學院的學長姐的位置，同一時間，整個學校裡最多就是三十六個學生會成員。
+
+在校內擁有實權，學員也有許多特權，職權高於學生會，但是一般不處理學校的事務。
+
+建立時間：1980
+
+現任團長：亞契・拉榭爾
+
+代表標誌:黑桃
+
+人員數:未公開</text>
+      <sha1>98ebsyrts16yn5y1kx7jrjyrhynrkje</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>贊恩</title>
+    <ns>0</ns>
+    <id>50</id>
+    <revision>
+      <id>403</id>
+      <parentid>393</parentid>
+      <timestamp>2022-01-03T13:07:16Z</timestamp>
+      <contributor>
+        <username>哲</username>
+        <id>4</id>
+      </contributor>
+      <origin>403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="777" sha1="0pe4gs6uj13m96x7se2nmdi32x80ftu" xml:space="preserve">前資優班學生，因爲沒有技能而退出。
+[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 ||恩
+|-
+| 家族 || 無
+|-
+| 勢力 ||中立
+|-
+| 生日 ||3/14
+|-
+| 星座 ||雙魚
+|-
+| 血型 ||AB
+|-
+| 髮色 || 黑
+|-
+| 瞳色 || 深藍
+|-
+| 身高 || 177
+|-
+| 出生地區 ||漢諾威
+|-
+| 活動範圍 || 埃森學院
+|-
+| 所好之物 || 貓咪
+|-
+| 所惡之物 ||念書
+|-
+| 屬性 || A
+|-
+| 代號 || witch
+|-
+| 技能 || 咒術
+|-
+| 配槍 ||儒格10/22半自动步枪
+|-
+| 所屬團體 ||無
+|-
+! !!親屬及相關人
+|-
+|父母||阿兹卡（父），林蒂（母）
+|-
+|兄弟姐妹||列恩（弟弟）
+|-
+! !!學歷 
+|-
+|小學||約翰娜·弗里森學校
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|}</text>
+      <sha1>0pe4gs6uj13m96x7se2nmdi32x80ftu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>路易・曼徹斯</title>
+    <ns>0</ns>
+    <id>25</id>
+    <revision>
+      <id>332</id>
+      <parentid>188</parentid>
+      <timestamp>2022-01-02T05:53:28Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="857" sha1="5gl3o4bttwmtxj1ud0ae0nsuh524vcb" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || 路易斯、王、國王
+|-
+| 家族 || 曼徹斯
+|-
+| 勢力 || 王室
+|-
+| 生日 || 9月18日
+|-
+| 星座 || 處女座
+|-
+| 血型 || AB
+|-
+| 髮色 || 深棕
+|-
+| 瞳色 || 藍
+|-
+| 身高 || 186cm
+|-
+| 出生地區 || 曼徹思王國
+|-
+| 活動範圍 || 曼徹思王國
+|-
+| 所好之物 || 雞肉
+|-
+| 所惡之物 || 雞
+|-
+! !!親屬及相關人
+|-
+|父母|| 亨利和伊麗莎白.曼徹斯
+|-
+|兄弟姐妹|| 姐姐瑪麗娜 哥哥奈許、喬森
+|-
+! !!學歷 
+|-
+|小學|| 皇家學院
+|-
+|中學|| 埃森學院
+|-
+|高中|| 埃森學院
+|-
+|大學|| 劍橋大學地理系
+|}
+
+   曼徹斯王國的國王，個性冷漠，古板且嚴格。對於周圍的人也不假辭色，對敵人更是心狠手辣，行事乾淨利落，雷厲風行。</text>
+      <sha1>5gl3o4bttwmtxj1ud0ae0nsuh524vcb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>迪昂・布朗恩</title>
+    <ns>0</ns>
+    <id>18</id>
+    <revision>
+      <id>382</id>
+      <parentid>309</parentid>
+      <timestamp>2022-01-03T11:33:56Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>382</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="787" sha1="0vcyhnt92veb7l8us1dnj6szbyvj9z1" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 ||戴
+|-
+| 家族 || 布朗恩
+|-
+| 勢力 ||王室
+|-
+| 生日 ||6/7
+|-
+| 星座 ||雙子
+|-
+| 血型 ||A
+|-
+| 髮色 || 棕
+|-
+| 瞳色 || 黑
+|-
+| 身高 || 176
+|-
+| 出生地區 ||阿爾山
+|-
+| 活動範圍 || 埃森學院
+|-
+| 所好之物 || 起司
+|-
+| 所惡之物 ||晴天
+|-
+| 屬性 || A
+|-
+| 代號 || thunder
+|-
+| 技能 || 雷擊
+|-
+| 配槍 ||Heckler &amp; Koch USP
+|-
+| 配對 || [[芮貝卡]]
+|-
+| 所屬團體 ||[[資優班]]
+|-
+! !!親屬及相關人
+|-
+|父母||艾維斯・布朗恩（父親）＆安娜（母親）
+|-
+|兄弟姐妹||艾琳娜・布朗恩（姐姐）
+|-
+! !!學歷 
+|-
+|小學||阿科納廣場小學
+|-
+|中學||埃森學院
+|-
+|高中||埃森學院
+|}</text>
+      <sha1>0vcyhnt92veb7l8us1dnj6szbyvj9z1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>非法組織</title>
+    <ns>0</ns>
+    <id>29</id>
+    <revision>
+      <id>107</id>
+      <timestamp>2021-12-30T08:54:48Z</timestamp>
+      <contributor>
+        <username>Eryn</username>
+        <id>3</id>
+      </contributor>
+      <comment>建立內容為「* [[天眼會]] * [[亞立斯黨]]」的新頁面</comment>
+      <origin>107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" sha1="do0ibiczvdf1ghmkjr7i2t6xc2447ia" xml:space="preserve">* [[天眼會]]
+* [[亞立斯黨]]</text>
+      <sha1>do0ibiczvdf1ghmkjr7i2t6xc2447ia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>首頁</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>344</id>
+      <parentid>336</parentid>
+      <timestamp>2022-01-02T15:29:01Z</timestamp>
+      <contributor>
+        <username>Eryn</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* 人物 */</comment>
+      <origin>344</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3170" sha1="czw83a0njh58q4up4vchdd9sjf83p0f" xml:space="preserve">&lt;small&gt;叮咚!你收到了一個訊息。&lt;/small&gt;
+
+== 作品與閱覽方式： ==
+網址：http://172.104.65.21/
+
+== 簡介 ==
+　　&lt;small&gt;埃森高級中學是個私立的貴族學校。&lt;/small&gt;
+
+&lt;small&gt;　　但，僅僅是表面上而已。在炫眼的榜單背後，藏著的是一個接一個的國家機密，情報、暗殺、追蹤才是真正構成學院的名詞。&lt;/small&gt;
+
+&lt;small&gt;　　無意中牽扯進了曾經好友的命案，普通班學生艾琳娜只好正視面對自己的過去，試著找出隱藏的殺手，並證明自己的清白。&lt;/small&gt;
+
+&lt;small&gt;昔日的夥伴已成了最熟悉的陌生人，但是為了死去的共同好友他們只能組成同一陣線。而在重新認識他們的同時，當年決裂的原因也逐漸明瞭。&lt;/small&gt;
+
+&lt;small&gt;不僅如此，學院更大的秘密正隱約浮現…&lt;/small&gt;
+
+
+&lt;small&gt;一句話簡介:&lt;/small&gt;
+
+&lt;small&gt;　　這是一個特工學校被復仇圍鏟的故事。&lt;/small&gt;
+
+== 故事背景大要 ==
+
+   &lt;small&gt;一個平行世界裏，1935年時一個叫[[石蟲|石（ㄉㄢˋ/ dan）蟲]]的生物隨著隕石降落至地球改變了這個世界原本的歷史軌跡，運用石蟲，曼徹思王國秘密培養了一批具有異能的士兵，並在二戰時取得了現今德國的領土。 很多年過後，在曼徹思王國的一所貴族學校裏，暗地裏存在著一個特工團。打著「資優班」的幌子，但其實被稱為資優生的學生們都是擁有超能力的特工們，包括有艾琳娜・布勞恩(主角，也就是玩家)，[[薇薇安・珂斯多夫]]，[[亞契・拉榭爾]]，[[迪昂・布朗恩]]，[[凡妮亞・克虜伯]]及[[芮貝卡]]。故事的開端以調查資優班其中一個重要成員芮貝卡的死亡真相而展開。&lt;/small&gt;
+
+
+
+== 人物 ==
+
+* [[艾琳娜‧布朗恩]]
+* [[薇薇安・珂斯多夫]]
+* [[芮貝卡]]
+* [[迪昂・布朗恩]]
+* [[路易・曼徹斯]]
+* [[奧黛・懷特]]
+* [[卡爾・羅蘭]]
+* [[麗塔・羅蘭]]
+* [[紫煞]]
+* [[亞契・拉榭爾]]
+* [[伊恩・拉榭爾]]
+* [[莎凡娜]]
+* [[凡妮亞・克虜伯]]
+* [[贊恩]]
+* [[艾維斯・布朗恩]]
+* [[米開萊・吉諾布爾]]
+
+== 組織 ==
+
+==== 家族 ====
+
+* [[珂斯多夫]]
+* [[布朗恩]]
+* [[拉榭爾]]
+* [[曼徹斯]]
+* [[羅蘭]]
+* [[懷特]]
+
+==== 學校及學校組織 ====
+
+* [[皇家學院]]
+* [[埃森學院]]
+** [[資優班]]
+**[[學生議會]]
+
+==== 非法組織 ====
+
+* [[天眼會]]
+* [[亞立斯黨]]
+
+== 地點 ==
+
+* [[主教室]]
+* [[化學實驗室]]
+* [[澡堂]]
+* [[茵薩斯湖邊涼亭]]
+*[[松木林]]
+
+== 外星生物 ==
+
+* [[石蟲]]
+
+== 文件 ==
+
+* [[布林梅行動]]
+
+== 作者名單 ==
+陽明交通大學110學年度第一學期課程多線互動敘事工作坊第三組：
+
+余廣哲、陳芷姍、廖慧琪
+
+== 入門 ==
+
+* [https://www.mediawiki.org/wiki/Manual:Configuration_settings MediaWiki 配置設定清單]
+* [https://www.mediawiki.org/wiki/Manual:FAQ MediaWiki 常見問題解答]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki 發佈郵件清單]
+請參閱 [https://meta.wikimedia.org/wiki/Help:Contents 使用者手冊] 以獲得使用此 wiki 軟體的訊息！</text>
+      <sha1>czw83a0njh58q4up4vchdd9sjf83p0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>麗塔・羅蘭</title>
+    <ns>0</ns>
+    <id>57</id>
+    <revision>
+      <id>385</id>
+      <parentid>356</parentid>
+      <timestamp>2022-01-03T11:50:51Z</timestamp>
+      <contributor>
+        <username>Alicechen13</username>
+        <id>1</id>
+      </contributor>
+      <origin>385</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1054" sha1="dujupa9dyxcy6vvs2nd75p3429pc1ro" xml:space="preserve">[[Category: 人物]]
+
+{| class="wikitable" style="float: left;"
+|-
+!   !!  基本資料
+|-
+| 別稱 || 洛麗塔，塔
+|-
+| 家族 || 羅蘭
+|-
+| 勢力 || 貴族
+|-
+| 生日 || 7月12日
+|-
+| 星座 || 巨蟹座
+|-
+| 血型 || AB
+|-
+| 髮色 || 金色
+|-
+| 瞳色 || 棕色
+|-
+| 身高 || 175cm
+|-
+| 出生地區 || 曼徹思王國
+|-
+| 活動範圍 || 曼徹思王國
+|-
+| 所好之物 || 項鏈
+|-
+| 所惡之物 || 老鼠
+|-
+| 屬性 || 
+|-
+| 代號 || 
+|-
+| 技能 || 
+|-
+| 配槍 ||Glock 19
+|-
+|所屬團體||[[資優班]]
+|-
+! !!親屬及相關人
+|-
+|父母|| 吉諾曼·羅蘭和娜奧米·羅蘭
+|-
+|兄弟姐妹|| 弟弟艾倫・羅蘭
+|-
+! !!學歷 
+|-
+|小學|| 皇家學院
+|-
+|中學|| 埃森學院
+|-
+|高中|| [[埃森學院]]
+|}
+
+  [[羅蘭]]現任家主吉諾曼.羅蘭的大女兒，與[[芮貝卡]]是死對頭。原本是家中大小姐的她，在親生母親過世及繼母和私生子正式進入家族後漸漸在家中被忽視。為人驕傲，看似不可一世，自尊心極強，實際上內心卻極度缺乏安全感。</text>
+      <sha1>dujupa9dyxcy6vvs2nd75p3429pc1ro</sha1>
+    </revision>
+  </page>
+</mediawiki>
