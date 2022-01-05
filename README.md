@@ -1,5 +1,5 @@
 # Float （Education Project）
-# %浮 
+# %浮。 
 <img src="logo.jpg"/>
 
 # 創作計劃成員
